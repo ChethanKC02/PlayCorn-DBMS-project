@@ -74,7 +74,7 @@ INSERT INTO Cast (CastID, MovieID, ActorID, Role) VALUES
 -- |    20   |    7    |    22   |       Narrator        |
 -- |    21   |    8    |    7    |      Lead Actor       |
 -- |    22   |    8    |    21   |        villain        |
--- |    23   |    8    |    22   |    police officer    |
+-- |    23   |    8    |    22   |    police officer     |
 -- |    24   |    9    |    22   |      Lead Actor       |
 -- |    25   |    9    |    23   |     Lead Actress      |
 -- |    26   |    9    |    24   |     Lead Actress      |
@@ -88,8 +88,8 @@ INSERT INTO Cast (CastID, MovieID, ActorID, Role) VALUES
 -- |    34   |    11   |    27   |    Supporting role    |
 -- |    35   |    11   |    28   |        Swamiji        |
 -- |    36   |    12   |    9    |       Main Role       |
--- |    37   |    12   |    29   |  Main roles Friend 1 |
--- |    38   |    12   |    30   |  Main roles Friend 2 |
+-- |    37   |    12   |    29   |  Main roles Friend 1  |
+-- |    38   |    12   |    30   |  Main roles Friend 2  |
 -- |    39   |    12   |    31   |     Lead Actress      |
 -- |    40   |    12   |    32   |       Professor       |
 -- |    41   |    12   |    33   |    Supporting Role    |
