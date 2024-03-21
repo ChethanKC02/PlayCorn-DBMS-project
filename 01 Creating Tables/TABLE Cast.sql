@@ -1,0 +1,8 @@
+CREATE TABLE Cast (
+    CastID INT PRIMARY KEY,
+    MovieID INT NOT NULL,
+    ActorID INT NOT NULL,
+    Role VARCHAR(100),
+    FOREIGN KEY (MovieID) REFERENCES Movies(MovieID),
+    FOREIGN KEY (ActorID) REFERENCES Actors(ActorID)
+);
